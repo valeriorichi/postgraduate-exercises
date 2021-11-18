@@ -2,13 +2,13 @@
 
 ---
 
-Welcome to the Northcoders Postgrad Repo and welcome to your new life as fully-fledged Northcoders!
+Welcome to the Northcoders Postgrad Repo - and your new life as a fully-fledged Northcoder!
 
 ---
 
-## The Northcoders course has finished. What do i do now?...
+## The Northcoders course has finished. What do I do now?...
 
-We are aware that following on from the intense and wonderful learning experience at Northcoders, many graduates are faced with the difficult task of filling the gap left and also deciding what project to do next to add to your portfolio and keep your coding muscles toned.
+We are aware that, following on from the intense and wonderful learning experience at Northcoders, many graduates are faced with the difficult task of filling the gap left behind. But how do you go about deciding what to work on next in order to to add to your portfolio and keep your coding muscles toned? Well fear not...
 
 ---
 
@@ -20,14 +20,14 @@ These projects should take less than a day to complete and are largely useful fo
 
 ### **Medium term**
 
-These projects should take 1-4 days to complete and will be useful for small portfolio pieces and are probably best suited to complete with a library/framework with which you have some familiarity.
+These projects should take 1-4 days to complete, they will be useful for small portfolio pieces and are probably best suited to complete with a library/framework with which you have some familiarity.
 
 ### **Long term**
 
-These projects should take more than one week to complete and will be excellent larger portfolio pieces and are probably best suited to complete with a library/framework you are comfortable working with. These projects are likely to involve creation of both backend and frontend and will involve contacting at least one API.
+These full-stack projects should take more than one week to complete and will make for excellent, larger portfolio pieces. It should be possible to complete these projects utilising the technologies you've learned during your time at Northcoders - though venturing into alternative technologies is warmly welcomed.
 
 ---
 
 ## Where should I start?
 
-First of all , we would recommend getting your portfolio website working and ready to house any of the projects you complete. Once the portfolio site is ready, pick the right project based on your experience level and available time...
+First of all, we would recommend getting your portfolio website working and ready to house all of the projects you complete. Once the portfolio site is ready, pick the right project based on your experience level and available time...
