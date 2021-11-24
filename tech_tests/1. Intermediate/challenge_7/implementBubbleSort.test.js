@@ -15,7 +15,9 @@ describe("Creating Bubble Sort", () => {
 
     test("Returns a new array of sorted numbers", () => {
         const original = [4, 1, 5, 7, 3];
-        expect(implementBubbleSort(original)).not.toBe(original);
+        const sorted = implementBubbleSort(original);
+        expect(Array.isArray(sorted)).toBe(true);
+        expect(sorted).not.toBe(original);
     })
 
     test("Does not mutate the original array", () => {
