@@ -1,4 +1,4 @@
-# <span id="11">11. Fix the Number Calculator Errors</span>
+# 11. Fix the Number Calculator Errors
 We had an idea where we would create a class that would help us calculate numbers for us. We would give it a group of numbers and then our calculator would apply its operations we want when we ask it to.
 
 ## Task:
