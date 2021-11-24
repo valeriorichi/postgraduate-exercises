@@ -22,4 +22,5 @@ And so on...
 
 ### Task:
 We want to find out the index of the doors that are open after our final pass.
+
 For example, given 5 doors, our function doorsOpened(5) should return an array of [1, 4] because 1 and 4 are the only opened doors.
