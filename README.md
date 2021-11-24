@@ -31,7 +31,7 @@ These projects should take 1-4 days to complete, they will be useful for small p
 
 These full-stack projects should take more than one week to complete and will make for excellent, larger portfolio pieces. It should be possible to complete these projects utilising the technologies you've learned during your time at Northcoders - though venturing into alternative technologies is warmly welcomed.
 
-### **Tech Tests**
+### **Tech tests**
 
 If you get an interview, you'll no doubt be told that you will have to complete a tech test. Whether on your own or with someone else, it can make or break your chances.
 
