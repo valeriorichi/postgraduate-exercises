@@ -9,7 +9,7 @@ This is vital stuff!
 First, you are going to need to install all the dependencies that are associated with this repo. Run these scripts:
 
 ```http
-cd be_tech_tests
+cd tech_tests
 npm install
 ```
 
