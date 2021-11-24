@@ -34,7 +34,8 @@ describe("Quick Sort Algorithm", () => {
 
     test("Does not mutate the original array", () => {
         const initial = [5, 4, 3, 2, 1];
-        implementQuickSort(initial);
+        const sorted = implementQuickSort(initial);
+        expect(Array.isArray(sorted)).toBe(true);
         expect(initial).toEqual([5, 4, 3, 2, 1]);
     })
 
