@@ -1,4 +1,4 @@
-const { Node, BST } = require("../functions/2. Classes/12. BST.js");
+const { Node, BST } = require("./BST.js");
 
 describe("Binary Search Tree", () => {
     describe("Node Class", () => {

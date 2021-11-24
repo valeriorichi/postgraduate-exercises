@@ -1,4 +1,4 @@
-const diffToFib = require("../functions/1. Intermediate/3. diffToFib.js");
+const diffToFib = require("./diffToFib.js");
 
 describe("Difference to the Next Fibonacci Number", () => {
     test("Returns 0 when the input itself is a Fibonacci Number", () => {

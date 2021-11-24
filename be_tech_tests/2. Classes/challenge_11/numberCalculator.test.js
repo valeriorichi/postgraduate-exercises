@@ -1,4 +1,4 @@
-const NumberCalculator = require("../functions/2. Classes/11. numberCalculator.js");
+const NumberCalculator = require("./numberCalculator.js");
 
 describe("Number Calculator", () => {
     test("Constructor creates the desired object", () => {

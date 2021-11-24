@@ -1,4 +1,4 @@
-const passingNumber = require("../functions/1. Intermediate/8. passingNumber.js");
+const passingNumber = require("./passingNumber.js");
 
 describe("Passing Number", () => {
     test("Returns 0 when input num less than the value to find", () => {
