@@ -18,7 +18,7 @@ describe("Creating Bubble Sort", () => {
         expect(implementBubbleSort(original)).not.toBe(original);
     })
 
-    test("Returns an array that does not mutate the original array we pass in", () => {
+    test("Does not mutate the original array", () => {
         const original = [6, 1, 6, 9, 3, 2];
         implementBubbleSort(original);
         expect(original).not.toEqual([1, 2, 3, 6, 6, 9]);
