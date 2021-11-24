@@ -1,3 +1,3 @@
-function implementQuickSort(nums) {}
+function implementQuickSort() {}
 
 module.exports = implementQuickSort;
