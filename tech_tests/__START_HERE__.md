@@ -21,11 +21,11 @@ This should mean you're ready to go!
 
 There are 4 main directories filled with tech tests for you.
 
-1. Intermediate Challenges
+### 1. Intermediate Challenges
 
 These are to get you into the groove for the later ones that come. They are what you are most likely to face in a tech test and should leave you scratching your head for a little bit as you get the tests to work.
 
-2. Class Challenges
+### 2. Class Challenges
 
 Sometimes, you'll be asked to use OOP to solve a problem instead of FP... These are here to help you get back on top of OOP so you can smash through that curveball you might face.
 
@@ -33,7 +33,7 @@ Remember, a lot of critical technologies use OOP principles including, C++, C# a
 
 This will also introduce a couple of new concepts to you... Why? Well, if you meet something unfamiliar in a tech test, you'll be expected to research!
 
-3. Big O Notation & Time Complexity
+### 3. Big O Notation & Time Complexity
 
 Delving a bit into Computer Science here. These tests are to get you familiar with an important concept in programming.
 
@@ -43,10 +43,10 @@ The way you may first solve a problem might not be scalable, and if you have you
 
 You aren't left blind though, below are a few links for you to investigate to help you!
 
-<a href="https://app.codility.com/programmers/lessons/3-time_complexity/">Codility link</a>
+<a href="https://app.codility.com/programmers/lessons/3-time_complexity/">Codility link</a><br /><br />
 <a href="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation">Khan Academy Explanation</a>
 
-4. Advanced
+### 4. Advanced
 
 Are you up for a challenge?
 
