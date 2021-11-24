@@ -1,3 +1,3 @@
-function implementBubbleSort(numbers) {}
+function implementBubbleSort() {}
 
 module.exports = implementBubbleSort;

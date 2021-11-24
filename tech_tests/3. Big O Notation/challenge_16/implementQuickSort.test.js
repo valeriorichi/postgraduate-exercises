@@ -28,18 +28,21 @@ describe("Quick Sort Algorithm", () => {
     })
 
     test("Creates a new array when implemented", () => {
-        const initial = [2, 1, 3, 4]
-        expect(implementQuickSort(initial)).not.toBe(initial);
+        const initial = [2, 1, 3, 4];
+        const sorted = implementQuickSort(initial);
+        expect(Array.isArray(sorted)).toBe(true);
+        expect(sorted).not.toBe(initial);
     })
 
     test("Does not mutate the original array", () => {
         const initial = [5, 4, 3, 2, 1];
-        implementQuickSort(initial);
+        const sorted = implementQuickSort(initial);
+        expect(Array.isArray(sorted)).toBe(true);
         expect(initial).toEqual([5, 4, 3, 2, 1]);
     })
 
     test("Does not use sort()", () => {
-        return fs.readFile(`${__dirname}/../functions/3. Big O Notation/14. implementQuickSort.js`, "utf8")
+        return fs.readFile(`${__dirname}/implementQuickSort.js`, "utf8")
             .then((file) => {
                 let sortString = /\.sort\(/;
                 expect(file.length).toBeGreaterThan(85);
