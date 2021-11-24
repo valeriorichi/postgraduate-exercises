@@ -28,8 +28,10 @@ describe("Quick Sort Algorithm", () => {
     })
 
     test("Creates a new array when implemented", () => {
-        const initial = [2, 1, 3, 4]
-        expect(implementQuickSort(initial)).not.toBe(initial);
+        const initial = [2, 1, 3, 4];
+        const sorted = implementQuickSort(initial);
+        expect(Array.isArray(sorted)).toBe(true);
+        expect(sorted).not.toBe(initial);
     })
 
     test("Does not mutate the original array", () => {
