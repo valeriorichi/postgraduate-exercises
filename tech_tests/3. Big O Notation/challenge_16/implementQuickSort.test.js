@@ -39,7 +39,7 @@ describe("Quick Sort Algorithm", () => {
     })
 
     test("Does not use sort()", () => {
-        return fs.readFile(`${__dirname}/../functions/3. Big O Notation/14. implementQuickSort.js`, "utf8")
+        return fs.readFile(`${__dirname}/implementQuickSort.js`, "utf8")
             .then((file) => {
                 let sortString = /\.sort\(/;
                 expect(file.length).toBeGreaterThan(85);
