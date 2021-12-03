@@ -7,9 +7,11 @@
 The following deliverables are required for each project:
 
 1. Source code provided (GitHub repo)
-2. All assumptions should be documented
-3. All limitations of your solution should be documented
-4. Instructions of how to run / use app should be provided (README)
+2. Take special account for accessibility issues
+3. Responsiveness - Mobile and web view available
+4. All assumptions should be documented
+5. All limitations of your solution should be documented
+6. Instructions of how to run / use app should be provided (README)
 
 ---
 
