@@ -6,6 +6,18 @@ Welcome to the Northcoders Postgrad Repo - and to your new life as a fully-fledg
 
 ---
 
+## Set Up:
+
+If you wish to use the either the Front End or Back End Tech Tests you'll need to run the following bash script in your terminal, whilst you are located in the root directory of this repository.
+
+```bash
+npm install
+```
+
+When you get to the relevant section of the repo you can use the mentioned scripts as you want.
+
+---
+
 ## The Northcoders course has finished. What do I do now?...
 
 We are aware that, following on from the intense and wonderful learning experience at Northcoders, many graduates are faced with the difficult task of filling the gap it leaves behind. But how do you decide what to work on next in order to add to your portfolio and keep your coding muscles toned? Well, fear not, this repo is here to guide you...
