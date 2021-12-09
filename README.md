@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Northcoders Postgrad Repo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+Welcome to the Northcoders Postgrad Repo - and to your new life as a fully-fledged Northcoder!
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## The Northcoders course has finished. What do I do now?...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+We are aware that, following on from the intense and wonderful learning experience at Northcoders, many graduates are faced with the difficult task of filling the gap it leaves behind. But how do you decide what to work on next in order to add to your portfolio and keep your coding muscles toned? Well, fear not, this repo is here to guide you...
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## Where should I start?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ahead of anything else, we'd recommend getting your portfolio website working and ready to house all of your work. This will be a really powerful tool to demonstrate what you're capable of and grab the attention of potential employers - so put some love into it. Once your portfolio site is ready, you can get going on some lovely projects to populate it with.
+This repo contains suggestions for project ideas and has three sections: pick a suitable project based on your experience level and available time.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Short term**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+These projects should take less than a day to complete and are largely useful for spiking out new libraries/frameworks.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Medium term**
 
-### `npm run eject`
+These projects should take 1-4 days to complete, they will be useful for small portfolio pieces and are probably best suited to complete with a library/framework with which you have some familiarity.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### **Long term**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+These full-stack projects should take more than one week to complete and will make for excellent, larger portfolio pieces. It should be possible to complete these projects utilising the technologies you've learned during your time at Northcoders - though venturing into alternative technologies is warmly welcomed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### **Tech tests**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+If you get an interview, you'll no doubt be told that you will have to complete a tech test. Whether on your own or with someone else, it can make or break your chances.
 
-## Learn More
+These 20 Challenges are designed to get you ready for your next tech test so you ace it.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Make sure to read the **START_HERE** file before delving in, it contains some valuable information before you get started.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
