@@ -8,14 +8,14 @@ Welcome to the Northcoders Postgrad Repo - and to your new life as a fully-fledg
 
 ## The Northcoders course has finished. What do I do now?...
 
-We are aware that, following on from the intense and wonderful learning experience at Northcoders, many graduates are faced with the difficult task of filling the gap it leaves behind. But how do you decide what to work on next in order to add to your portfolio and keep your coding muscles toned? Well, fear not, this repo is here to guide you...
+We are aware that following on from the intense and wonderful learning experience at Northcoders, many graduates are faced with the difficult task of filling the gap it leaves behind. But how do you decide what to work on next in order to add to your portfolio and keep your coding muscles toned? Well, fear not, this repo is here to guide you...
 
 ---
 
 ## Where should I start?
 
-Ahead of anything else, we'd recommend getting your portfolio website working and ready to house all of your work. This will be a really powerful tool to demonstrate what you're capable of and grab the attention of potential employers - so put some love into it. Once your portfolio site is ready, you can get going on some lovely projects to populate it with.
-This repo contains suggestions for project ideas and has three sections: pick a suitable project based on your experience level and available time.
+Ahead of anything else, we'd recommend getting your portfolio website working and ready to house all of your work. This will be a really powerful tool to demonstrate what you're capable of and grab the attention of potential employers, so put some love into it. Once your portfolio site is ready, you can get going on some lovely projects to populate it with.
+This repo contains suggestions for project ideas and has three project sections: pick a suitable project based on your experience level and available time and also try out out tech-tests section which aims to replicate some of the challenges you may face in interview tech tests.
 
 ---
 
