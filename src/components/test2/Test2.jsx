@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./Test2.css";
 import "../instructionsButton.css";
-const movieData = require("../../../movies.json");
+const movieData = require("../../movies.json");
 
 const Test1 = () => {
     const [showInstructions, setShowInstructions] = useState(false);
