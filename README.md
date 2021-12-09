@@ -31,12 +31,24 @@ These projects should take 1-4 days to complete, they will be useful for small p
 
 These full-stack projects should take more than one week to complete and will make for excellent, larger portfolio pieces. It should be possible to complete these projects utilising the technologies you've learned during your time at Northcoders - though venturing into alternative technologies is warmly welcomed.
 
-### **Tech tests**
+### **Back end tech tests**
 
 If you get an interview, you'll no doubt be told that you will have to complete a tech test. Whether on your own or with someone else, it can make or break your chances.
 
 These 20 Challenges are designed to get you ready for your next tech test so you ace it.
 
 Make sure to read the **START_HERE** file before delving in, it contains some valuable information before you get started.
+
+### **Front end tech tests**
+
+If you're wanting a Front End Developer position, you'll still come across tech tests. But, these are to see how well you work with front end technologies instead of your problem solving acumen.
+
+Run the following script:
+
+```bash
+npm start
+```
+
+This will show you the tech tests available to you with some instructions on each one. Have fun!
 
 ---
