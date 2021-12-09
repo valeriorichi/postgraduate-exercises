@@ -49,13 +49,13 @@ If you get an interview, you'll no doubt be told that you will have to complete 
 
 These 20 Challenges are designed to get you ready for your next tech test so you ace it.
 
-Make sure to read the **START_HERE** file before delving in, it contains some valuable information before you get started.
+Make sure to read the **START_HERE.md** file before delving in, it contains some valuable information before you get started.
 
 ### **Front end tech tests**
 
 If you're wanting a Front End Developer position, you'll still come across tech tests. But, these are to see how well you work with front end technologies instead of your problem solving acumen.
 
-You can check out the START_HERE.md file in the src/ directory, or...
+You can check out the **START_HERE.md** file in the src/ directory, or...
 
 Run the following script:
 
