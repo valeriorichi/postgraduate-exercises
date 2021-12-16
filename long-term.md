@@ -1,30 +1,35 @@
 # Long-term projects
+---
 
-## Before you start:
 
-**Deliverables**
+## **Deliverables**
 
 The following are required for each project:
 
-- Source control via GitHub, and a sharable Repo that you'd be proud to show potential employers.
-- Instructions on how to run/build the app should be documented in a README.
-- Error Handling.
-- Test Driven Development.
-- Bonus points for hosting.
+1. Source control via GitHub, and a sharable Repo that you'd be proud to show potential employers.
+2. Take special account for accessibility issues
+3. Instructions on how to run/build the app should be documented in a README.
+4. Error Handling.
+5. Test Driven Development.
+6. Bonus points for hosting.
 
-**Technology**
+### **Technology**
 
-- These are intended to be longer-term tasks, so try to treat each one like you would on a live dev team. The technologies learned during your time on the course should be enough to complete the below, but consider spiking alternatives if you'd like to broaden your horizons and see what else is possible.
+These are intended to be longer-term tasks, so try to treat each one like you would on a live dev team. The technologies learned during your time on the course should be enough to complete the below, but consider spiking alternatives if you'd like to broaden your horizons and see what else is possible.
 
-**Estimated time to complete**
+### **Estimated time to complete**
 
-- We'd recommend spending at least a week on each of these projects, but really - how long is a pieceOf.toString()? Once you've worked through the initial requirements, feel free to make your project into whatever you dare to dream... thought of another feature? Pop it in. Spotted something you could refactor to make your codebase EVEN more beautiful? Be our guest. Ready to move onto something different? Fair enough, you crack on.
+We'd recommend spending at least a week on each of these projects, but really "how long is a pieceOf.toString()?" Once you've worked through the initial requirements, feel free to make your project into whatever you dare to dream... Thought of another feature? Pop it in. Spotted something you could refactor to make your codebase EVEN more beautiful? Be our guest! Ready to move onto something different? Fair enough, you crack on...
 
 ---
 
-## Project Idea 1: **Can we build it? Yes we KANBAN**
+---
+
+## **Can we build it? Yes we KANBAN**
 
 A Trello-style project management board to manage all of your important code tasks now you're a fully-fledged developer.
+
+---
 
 ### **Long description**
 
@@ -43,6 +48,8 @@ We're going full-stack with this one. You'll need yourself a RESTful API and a g
 
    - A user should be able to keep their (for example) work and personal todo lists separate. There is no limit to how many lists may be in each workspace, nor how many workspaces a user may have.
 
+---
+
 **Extension**
 
 1. Allow users to invite others to share and collaborate on lists.
@@ -54,13 +61,17 @@ We're going full-stack with this one. You'll need yourself a RESTful API and a g
 
 ### **Resources**
 
-- www.trello.com (for inspiration)
+- https://trello.com (for inspiration)
 
 ---
 
-## Project Idea 2: **Habit Tracker**
+---
+
+## **Habit Tracker**
 
 Apparently (we googled) it takes 21 days to form a new habit, and 90 days for that new habit to become a permanent fixture in your lifestyle. We want you to build an online portal where users can form and track habits, with insight into their journey, and encouragement to keep going.
+
+---
 
 ### **Long description**
 
@@ -69,13 +80,14 @@ Apparently (we googled) it takes 21 days to form a new habit, and 90 days for th
 We're going full-stack with this one. You'll need yourself a RESTful API and a good-looking front-end that'll allow your users to do the following:
 
 1. Declare a new habit they would like to form, and track how it's going. This may include any combination of the following:
+   - A "daily check-in" feature.
+   - A visualisation of how many days they have completed so far, and how many are left until the next milestone.
+   - A forum to discuss their journey with like-minded habit forgers.
+   - A notice board of motivational articles.
+   - A tracker to record and review how much time they have spent working on their habit.
+   - A badge-based reward system. Checked-in every day for a week? Here, have a virtual medal.
 
-- A "daily check-in" feature.
-- A visualisation of how many days they have completed so far, and how many are left until the next milestone.
-- A forum to discuss their journey with like-minded habit forgers.
-- A notice board of motivational articles.
-- A tracker to record and review how much time they have spent working on their habit.
-- A badge-based reward system. Checked-in every day for a week? Here, have a virtual medal.
+---
 
 **Extension**
 
@@ -84,9 +96,13 @@ We're going full-stack with this one. You'll need yourself a RESTful API and a g
 
 ---
 
-## Project Idea 3: **Shopkeeper**
+---
+
+## **Shopkeeper**
 
 Build your empire with an online shop to sell teapots/corned beef/lizards/whatever you want.
+
+---
 
 ### **Long description**
 
@@ -114,6 +130,6 @@ We're going full-stack with this one. You'll need yourself a RESTful API and a g
 
 **Extension**
 
-A live-chat feature for users to interact with you directly about any products, concerns, compliments, thoughts, catchy-jingles they have in mind.
+- A live-chat feature for users to interact with you directly about any products, concerns, compliments, thoughts, catchy-jingles they have in mind.
 
 ---

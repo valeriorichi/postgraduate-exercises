@@ -2,9 +2,9 @@
 
 ---
 
-**Deliverables**
+## **Deliverables**
 
-The following deliverables are required for each project:
+The following are required for each project:
 
 1. Source code provided (GitHub repo)
 2. Take special account for accessibility issues
@@ -15,7 +15,6 @@ The following deliverables are required for each project:
 
 ---
 
----
 
 ---
 
@@ -55,9 +54,7 @@ The calculator app can be implemented using any of the following:
 
 **Extension**
 
-Scientific calculator mode.
-
----
+- Scientific calculator mode.
 
 ---
 
@@ -100,17 +97,15 @@ The dictionary app can be implemented using any of the following:
 
 **Extension**
 
-1. Thesaurus mode
-2. Translation to foreign language
+- Thesaurus mode
+- Translation to foreign language
 
 ---
 
 ### **Dictionary api**
 
-1. https://dictionaryapi.dev/
-2. https://developer.oxforddictionaries.com/
-
----
+- https://dictionaryapi.dev/
+- https://developer.oxforddictionaries.com/
 
 ---
 
@@ -152,10 +147,8 @@ The snake game can be implemented using any of the following:
 
 **Extension**
 
-1. 2-player mode
-2. Integrated sound
-
----
+- 2-player mode
+- Integrated sound
 
 ---
 
@@ -197,9 +190,7 @@ The game can be implemented using any of the following:
 
 **Extension**
 
-1. AI opponent (noughts and crosses)
-
----
+- AI opponent (noughts and crosses)
 
 ---
 
@@ -235,8 +226,6 @@ The quiz game can be implemented using any of the following:
 1. Web application (using well known framework such as React, Angular, Vue, Svelte etc...)
 2. Native application (using React Native, Flutter, Svelte Native etc...)
 3. Static website
-
----
 
 ---
 
