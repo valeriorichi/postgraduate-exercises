@@ -6,14 +6,13 @@ Welcome to the tech test repo!
 
 This is vital stuff!
 
-First, you are going to need to install all the dependencies that are associated with this repo. Run these scripts:
+First, you are going to need to install all the dependencies that are associated with this repo. 
+
+Make sure that you are in the root directory, then run this script:
 
 ```http
-cd tech_tests
 npm install
 ```
-
-Lastly, make sure you update your test script with "jest" in the package.json.
 
 This should mean you're ready to go!
 
