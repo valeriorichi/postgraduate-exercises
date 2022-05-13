@@ -1,4 +1,4 @@
-# 2. Are these Numbers Co-Prime?
+# 1.2 Are these Numbers Co-Prime?
 In maths, a prime number is a number that is only divisible by itself and 1 (e.g. 13 is only divisible by 13 and 1).
 
 Co-Primes are 2 numbers such that their only common divisor is 1. For example, 9 and 20 are co-prime, no divisors (1, 2, 3, 4, 5, 9, 10 and 20) go perfectly into the other except 1.

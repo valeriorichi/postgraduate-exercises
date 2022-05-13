@@ -21,14 +21,35 @@ This should mean you're ready to go!
 ## Structure:
 
 ---
-There are 4 main directories filled with tech tests for you.
+There are 6 main directories filled with tech tests for you.
 
 ### 1. Intermediate Challenges
 
 These are to get you into the groove for the later ones that come. They are what you are most likely to face in a tech test and should leave you scratching your head for a little bit as you get the tests to work.
 
 ---
-### 2. Class Challenges
+
+### 2. String Manipulation Challenges
+
+Not everything you do in your coding career will involve the manipulation of numbers! Frequently, it will be to work with strings.
+
+Strings can bring their own challenges when trying to manipulate them and that is why we have a section dedicated to them.
+
+Using Regex's in with string's are a powerful way to work with this data. Try to use Regex's, where possible, to get more comfortable with them... But, at the end of the day, passing the tests in any way still counts!
+
+---
+
+### 3. Object Manipulation
+
+Working with objects is an essential part of a programmers day to day life. They are highly malleable, allowing us to manipulate the data with ease.
+
+Albeit, some of the challenges we may face in the future may be more complicated than we first think...
+
+Therefore, it is good practice to start challenging ourselves to solve different kinds of problems when faced with an object.
+
+---
+
+### 4. Class Challenges
 
 Sometimes, you'll be asked to use OOP to solve a problem instead of FP... These are here to help you get back on top of OOP so you can smash through that curveball you might face.
 
@@ -37,7 +58,7 @@ Remember, a lot of critical technologies use OOP principles including, C++, C# a
 This will also introduce a couple of new concepts to you... Why? Well, if you meet something unfamiliar in a tech test, you'll be expected to research!
 
 ---
-### 3. Big O Notation & Time Complexity
+### 5. Time Efficient Algorithms
 
 Delving a bit into Computer Science here. These tests are to get you familiar with an important concept in programming.
 
@@ -52,8 +73,19 @@ You aren't left blind though, below are a few links for you to investigate to he
 <a href="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation">Khan Academy Explanation</a>
 
 ---
+### 6. Higher Order Functions
 
-### 4. Advanced
+The beauty of higher order functions is that they are extremely versatile... Think of .filter(): we pass in a predicate and it will return an array where only values that pass our predicate test are given to us.
+
+So handy!
+
+But, what if we need to create one for our own purposes?
+
+Good news! That's what these will be kata will be training you on.
+
+---
+
+### 7. Advanced
 
 Are you up for a challenge?
 

@@ -1,4 +1,4 @@
-# 3. Difference to Next Fibonacci Number
+# 1.3 Difference to Next Fibonacci Number
 I'm sure you've heard of the Fibonacci sequence. It's the set of numbers that you get when you add the two previous numbers in the sequence you get your next number. This sequence starts of with the numbers 0 & 1, giving us the following sequence:
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
