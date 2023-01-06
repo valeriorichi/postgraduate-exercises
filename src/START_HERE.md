@@ -1,10 +1,10 @@
-# Front End Tech Tests
+# Front-End Tech Tests
 
 ## Instructions:
 
-This repo is built to help you prepare for any Front End Tech Tests you meet in the future.
+This repo is built to help you prepare for any Front-End Tech Tests you meet in the future.
 
-The best way to work with this repo is to get it running on your local host and then solve the challenges in a seperate react app.
+The best way to work with this repo is to get it running on your local host and then solve the challenges in a separate react app.
 
 The script to build a new react app is
 
