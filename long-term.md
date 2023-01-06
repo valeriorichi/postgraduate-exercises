@@ -1,6 +1,6 @@
 # Long-term projects
----
 
+---
 
 ## **Deliverables**
 
@@ -9,7 +9,7 @@ The following are required for each project:
 1. Source control via GitHub, and a sharable Repo that you'd be proud to show potential employers.
 2. Take special account for accessibility issues
 3. Instructions on how to run/build the app should be documented in a README.
-4. Error Handling.
+4. Error handling.
 5. Test Driven Development.
 6. Bonus points for hosting.
 
@@ -41,7 +41,7 @@ We're going full-stack with this one. You'll need yourself a RESTful API and a g
 
    - This should allow users to add, delete, move and update tickets.
    - Each ticket added should provide an overview of the task at hand. When the user clicks into a ticket, they should be able to see more detailed information regarding that task.
-   - Think about what the user will see when they complete each of the above actions, what would be a positive user experience, and what information would be useful to include?
+   - Think about what the user will see when they complete each of the above actions: what would be a positive user experience, and what information would be useful to include?
    - Tickets should be colour-coded, dependent on their urgency.
 
 2. Create different workspaces to group different lists together:
@@ -92,7 +92,7 @@ We're going full-stack with this one. You'll need yourself a RESTful API and a g
 **Extension**
 
 - Let's get personal. Find a way to customise the content (articles, forum pages etc) that your user sees in the platform, based on the nature of the habit they're trying to forge.
-- Allow users to add each other as "friends". Friends should be able to see the progress that their friends are making, and comment on each other's achievements.
+- Allow users to add each other as "friends". Friends should be able to see the progress that their friends are making and comment on each other's achievements.
 
 ---
 

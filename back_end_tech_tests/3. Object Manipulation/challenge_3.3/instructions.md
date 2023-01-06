@@ -5,7 +5,8 @@ We have used the Array.prototype.filter() method numerous times throughout the b
 Today, we are going to correct that.
 
 ## Task:
-Create a function objFilter, that takes an object and a predicate and returns only the key-value pairs in a new obejct that pass the predicate test.
+
+Create a function objFilter, that takes an object and a predicate and returns only the key-value pairs in a new object that pass the predicate test.
 
 e.g.
 

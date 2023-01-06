@@ -15,7 +15,6 @@ The following are required for each project:
 
 ---
 
-
 ---
 
 ## **Calculator App**
@@ -47,7 +46,7 @@ The calculator app should support the following integer arithmetic operations:
 
 The calculator app can be implemented using any of the following:
 
-1. Web application (using well known framework such as React, Angular, Vue, Svelte etc...)
+1. Web application (using a well-known framework such as React, Angular, Vue, Svelte etc...)
 2. Native application (using React Native, Flutter, Svelte Native etc...)
 
 ---
@@ -62,7 +61,7 @@ The calculator app can be implemented using any of the following:
 
 ## **Dictionary app**
 
-Dictionary returning definition of word from third party api
+Dictionary returning definition of word from a third-party API
 
 ---
 
@@ -79,7 +78,7 @@ Dictionary returning definition of word from third party api
 The dictionary app should do the following:
 
 1. Return a definition of a requested word
-2. Extract data from a third party api
+2. Extract data from a third-party API
 3. Have an interactive frontend
 
 ---
@@ -88,10 +87,10 @@ The dictionary app should do the following:
 
 The dictionary app can be implemented using any of the following:
 
-1. Web application (using well known framework such as React, Angular, Vue, Svelte etc...)
+1. Web application (using a well-known framework such as React, Angular, Vue, Svelte etc...)
 2. Native application (using React Native, Flutter, Svelte Native etc...)
 3. Static website
-4. Third party api (required)
+4. Third-party API (required)
 
 ---
 
@@ -139,7 +138,7 @@ The snake game should do the following:
 
 The snake game can be implemented using any of the following:
 
-1. Web application (using well known framework such as React, Angular, Vue, Svelte etc...)
+1. Web application (using a well-known framework such as React, Angular, Vue, Svelte etc...)
 2. Native application (using React Native, Flutter, Svelte Native etc...)
 3. Static website
 
@@ -173,7 +172,7 @@ Quick classic game reproduction
 The game should do the following:
 
 1. Determine the winner
-2. Keep Score
+2. Keep score
 3. Have an interactive frontend
 
 ---
@@ -182,7 +181,7 @@ The game should do the following:
 
 The game can be implemented using any of the following:
 
-1. Web application (using well known framework such as React, Angular, Vue, Svelte etc...)
+1. Web application (using a well-known framework such as React, Angular, Vue, Svelte etc...)
 2. Native application (using React Native, Flutter, Svelte Native etc...)
 3. Static website
 
@@ -223,7 +222,7 @@ The quiz game should do the following:
 
 The quiz game can be implemented using any of the following:
 
-1. Web application (using well known framework such as React, Angular, Vue, Svelte etc...)
+1. Web application (using a well-known framework such as React, Angular, Vue, Svelte etc...)
 2. Native application (using React Native, Flutter, Svelte Native etc...)
 3. Static website
 

@@ -4,8 +4,6 @@
 
 Welcome to the Northcoders Postgrad Repo and to your new life as a fully-fledged Northcoder!
 
-
-
 ---
 
 ## The Northcoders course has finished. What do I do now?...
@@ -35,25 +33,23 @@ These full-stack projects should take more than one week to complete and will ma
 
 ---
 
-## Tech Test Set Up:
+## Tech Test Set-Up:
 
-If you wish to use the either the Front End or Back End Tech Tests you'll need to run the following bash script in your terminal, whilst located in the root directory of this repository.
+If you wish to use the either the Front-End or Back-End Tech Tests you'll need to run the following bash script in your terminal, whilst located in the root directory of this repository.
 
 ```bash
 npm install
 ```
 
-
-
 ### **Back end tech tests**
 
-If you get an interview, there's a good chance you will have to complete a tech test. Whether on your own or with someone else, this is your chance to shine. These Challenges are designed to get you ready for your next tech test so you ace it. 
+If you get an interview, there's a good chance you will have to complete a tech test. Whether on your own or with someone else, this is your chance to shine. These Challenges are designed to get you ready for your next tech test so you ace it.
 
-**PLEASE NOTE**: This is a living repositary which will be updated regularly. The tech-challenges available at the moment are quite maths-heavy and also the difficulty elevates rapidly; some of these challenges are quite tricky! As such, this section only represents a small percentage of possible tech tests you could face right now. Stay tuned for regular updates 🚀
+**PLEASE NOTE**: This is a living repository which will be updated regularly. The tech-challenges available at the moment are quite maths-heavy and also the difficulty elevates rapidly; some of these challenges are quite tricky! As such, this section only represents a small percentage of possible tech tests you could face right now. Stay tuned for regular updates 🚀
 
-### **Front end tech tests**
+### **Front-end tech tests**
 
-If you're wanting a Front End Developer position, you'll still come across tech tests. These tests will be more focussed on how well you work with front end technologies.
+If you're wanting a Front-End Developer position, you'll still come across tech tests. These tests will be more focussed on how well you work with front-end technologies.
 
 Run the following script:
 
