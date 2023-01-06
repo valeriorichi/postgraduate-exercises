@@ -1,4 +1,5 @@
-# Back End Tech Tests!
+# Back-End Tech Tests!
+
 ---
 
 Welcome to the tech test repo!
@@ -7,7 +8,7 @@ Welcome to the tech test repo!
 
 This is vital stuff!
 
-First, you are going to need to install all the dependencies that are associated with this repo. 
+First, you are going to need to install all the dependencies that are associated with this repo.
 
 Make sure that you are in the root directory, then run this script:
 
@@ -18,9 +19,11 @@ npm install
 This should mean you're ready to go!
 
 ---
+
 ## Structure:
 
 ---
+
 There are 6 main directories filled with tech tests for you.
 
 ### 1. Intermediate Challenges
@@ -35,7 +38,7 @@ Not everything you do in your coding career will involve the manipulation of num
 
 Strings can bring their own challenges when trying to manipulate them and that is why we have a section dedicated to them.
 
-Using Regex's in with string's are a powerful way to work with this data. Try to use Regex's, where possible, to get more comfortable with them... But, at the end of the day, passing the tests in any way still counts!
+Using regular expressions with strings is a powerful way to work with this data. Try to use regexes, where possible, to get more comfortable with them... But, at the end of the day, passing the tests in any way still counts!
 
 ---
 
@@ -58,21 +61,23 @@ Remember, a lot of critical technologies use OOP principles including, C++, C# a
 This will also introduce a couple of new concepts to you... Why? Well, if you meet something unfamiliar in a tech test, you'll be expected to research!
 
 ---
+
 ### 5. Time Efficient Algorithms
 
 Delving a bit into Computer Science here. These tests are to get you familiar with an important concept in programming.
 
 Building efficient algorithms.
 
-The way you may first solve a problem might not be scalable, and if you have your eyes set on top companies, knowing how to shrink the time it takes to get an answer is an invalualbe skill.
+The way you may first solve a problem might not be scalable, and if you have your eyes set on top companies, knowing how to shrink the time it takes to get an answer is an invaluable skill.
 
-You aren't left blind though, below are a few links for you to investigate to help you!
+You aren't left blind, though. Below are a few links for you to investigate to help you!
 
 <a href="https://app.codility.com/programmers/lessons/3-time_complexity/">Codility link</a>
 
 <a href="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation">Khan Academy Explanation</a>
 
 ---
+
 ### 6. Higher Order Functions
 
 The beauty of higher order functions is that they are extremely versatile... Think of .filter(): we pass in a predicate and it will return an array where only values that pass our predicate test are given to us.
@@ -81,7 +86,7 @@ So handy!
 
 But, what if we need to create one for our own purposes?
 
-Good news! That's what these will be kata will be training you on.
+Good news! That's what these kata will be training you on.
 
 ---
 
@@ -94,4 +99,3 @@ These are 4 functions that should make you utilise all the skills you've used so
 Inside each Challenge directory will be instructions on the tech test, a test file, a function file and a solution file.
 
 I strongly recommend completing the challenges without looking at the solution. They are there to help you compare your solution against mine and to show you that the tests will pass, if needed.
-

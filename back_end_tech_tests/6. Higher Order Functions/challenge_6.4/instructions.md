@@ -1,12 +1,12 @@
 # 6.4 Every Once in A While
 
-I'm sure at some point in your Northcoders career, you have utilised the array method every.
+I'm sure at some point in your Northcoders career, you have utilised the array method `every`.
 
-It's quite useful when we need it. But this time we want to implement every in a new way... A way that will enable us to test whether the arguments of a function all pass the predicate function, regardless of data type we pass in
+It's quite useful when we need it. But this time we want to implement `every` in a new way... A way that will enable us to test whether the arguments of a function all pass the predicate function, regardless of data type we pass in.
 
 ## Task:
 
-Implement the every higher order function to work for all data types we pass in
+Implement the `every` higher order function to work for all data types we pass in.
 
 e.g.
 
