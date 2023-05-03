@@ -72,9 +72,14 @@ The way you may first solve a problem might not be scalable, and if you have you
 
 You aren't left blind, though. Below are a few links for you to investigate to help you!
 
+<a href="https://www.youtube.com/watch?v=g2o22C3CRfU">Big-O Notation in 100 Seconds</a>
+
+<a href="https://www.youtube.com/watch?v=itn09C2ZB9Y">A more in depth explanation of Big 0</a>
+
 <a href="https://app.codility.com/programmers/lessons/3-time_complexity/">Codility link</a>
 
 <a href="https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation">Khan Academy Explanation</a>
+
 
 ---
 
