@@ -11,7 +11,6 @@ const toggleDoors = (n) => {
             indexArray.push(i + 1);
         }
     }
-    console.log(indexArray);
     return indexArray;
 };
 toggleDoors(10);
