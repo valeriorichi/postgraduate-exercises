@@ -13,5 +13,4 @@ const toggleDoors = (n) => {
     }
     return indexArray;
 };
-toggleDoors(10);
 module.exports = toggleDoors;
