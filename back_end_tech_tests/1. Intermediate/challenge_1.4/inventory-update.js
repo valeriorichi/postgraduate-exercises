@@ -1,15 +1,31 @@
 function updateInventory(curInv, newInv) {
-    let updatedInv = [];
+    const updatedInv = [...curInv];
     newInv.forEach(newElement => {
-        updatedInv = curInv.forEach(curElement => {
+        let foundMatch = false;
+
+        updatedInv.forEach(curElement => {
             if (curElement[1] === newElement[1]) {
                 curElement[0] += newElement[0];
-            } else {
-                console.log(newElement);
+                foundMatch = true;
             }
         });
+
+        if (!foundMatch) {
+            updatedInv.push(newElement);
+        }
     });
-    console.log(curInv);
+
+    updatedInv.sort((a, b) => {
+        if (a[1] < b[1]) {
+            return -1;
+        }
+        if (a[1] > b[1]) {
+            return 1;
+        }
+        return 0;
+    });
+
+    console.log(updatedInv);
 }
 
 
