@@ -21,7 +21,17 @@ function diffToFib(number) {
     }
 
 
-
+    let fib = generateFibonacci(2);
+    let i = 2;
+    while (true) {
+        const currentFib = fib[i - 1] + fib[i - 2];
+        const diff = Math.abs(currentFib - number);
+        if (currentFib >= number) {
+            return diff;
+        }
+        fib.push(currentFib);
+        i++;
+    }
 }
 
 module.exports = diffToFib;
