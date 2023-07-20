@@ -10,6 +10,7 @@ function diffToFib(number) {
 }
 module.exports = diffToFib;
 
+/*
 function diffToFib(number) {
 
     function generateFibonacci(n) {
@@ -35,3 +36,4 @@ function diffToFib(number) {
 }
 
 module.exports = diffToFib;
+*/
