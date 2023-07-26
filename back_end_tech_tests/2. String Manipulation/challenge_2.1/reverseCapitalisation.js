@@ -1,13 +1,18 @@
 const reverseCapitalisation = (inputString) => {
-    let reversedString = "";
-    for (let i = 0; i < inputString.length; i++) {
-        const char = inputString[i];
-        if (char === char.toUpperCase()) {
-            reversedString += char.toLowerCase();
-        } else {
-            reversedString += char.toUpperCase();
-        }
+    let reverseCapitalisedString = "";
+    for (i = 0; i < inputString.length; i++) {
+        reverseCapitalisedString += inputString.charAt(i) === inputString.charAt(i).toUpperCase() ? inputString.charAt(i).toLowerCase() : inputString.charAt(i).toUpperCase();
     }
-    return reversedString;
+    return reverseCapitalisedString;
+};
+
+
+// this is for loop approach
+const reverseCapitalisation1 = (inputString) => {
+    let reverseCapitalisedString = "";
+    for (i = 0; i < inputString.length; i++) {
+        reverseCapitalisedString += inputString.charAt(i) === inputString.charAt(i).toUpperCase() ? inputString.charAt(i).toLowerCase() : inputString.charAt(i).toUpperCase();
+    }
+    return reverseCapitalisedString;
 };
 module.exports = reverseCapitalisation;
