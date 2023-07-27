@@ -1,15 +1,7 @@
 const reverseCapitalisation = (inputString) => {
 
-    inputString = inputString.match(/[A-Z]/g)
-        ? inputString.replace(/[A-Z]/g, (letter) => letter.toLowerCase())
-        : inputString.replace(/\b[a-z]/g, (letter) => letter.toUpperCase());
-
-    return inputString;
+    return inputString = inputString.replace(/[a-zA-Z]/g, letter => letter === letter.toUpperCase() ? letter.toLowerCase() : letter.toUpperCase());
 };
-
-
-
-
 
 
 // this is for loop approach
