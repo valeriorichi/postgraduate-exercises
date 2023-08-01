@@ -4,7 +4,7 @@ const decryptMessage = (message, shift) => {
     const decyptedCharCodeArray = [];
 
     charArray.forEach((char) => {
-        let newCode = char.toLowerCase().charCodeAt(0) - shift;
+        let newCode = char.toLowerCase().charCodeAt(0) - (shift - Math.floor(shift / 28) * 28);
         switch (true) {
             case (char.toLowerCase().charCodeAt(0) < 97 || char.toLowerCase().charCodeAt(0) > 122):
                 decyptedCharCodeArray.push(char.charCodeAt(0));
