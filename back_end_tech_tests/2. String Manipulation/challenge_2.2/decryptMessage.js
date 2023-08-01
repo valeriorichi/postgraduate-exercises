@@ -1,16 +1,29 @@
 const decryptMessage = (message, shift) => {
-    message = message.replace(/[a-zA-Z]/g, decryptFunc);
 
-    decryptFunc = (letter) => {
-        let newCode = letter.toUpperCase.charCodeAt(0) + shift;
-        if (newCode >= 65 || newCode <= 90) {
-            return newLetter = letter === letter.toUpperCase ? newCode : newCode + 32;
+    const charArray = [...message];
+    const decyptedCharCodeArray = [];
+
+    charArray.forEach((char) => {
+        let newCode = char.toLowerCase().charCodeAt(0) - shift;
+        switch (true) {
+            case (char.toLowerCase().charCodeAt(0) < 97 || char.toLowerCase().charCodeAt(0) > 122):
+                decyptedCharCodeArray.push(char.charCodeAt(0));
+                break;
+
+
+            case newCode < 97:
+                decyptedCharCodeArray.push(newCode + 26);
+                break;
+            case newCode >= 97 && newCode <= 122:
+                decyptedCharCodeArray.push(newCode);
+                break;
+            case newCode > 122:
+                decyptedCharCodeArray.push(newCode - 26);
+                break;
         }
-    };
+    });
 
-    let text = String.fromCharCode(72, 69, 76, 76, 79);
+
 };
 
 module.exports = decryptMessage;
-
-return inputString = inputString.replace(/[a-zA-Z]/g, letter => letter === letter.toUpperCase() ? letter.toLowerCase() : letter.toUpperCase());
