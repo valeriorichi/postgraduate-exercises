@@ -22,7 +22,9 @@ const decryptMessage = (message, shift) => {
                 break;
         }
     });
-
+    console.log(message, shift,
+        "Arraymy----->>>", decyptedCharCodeArray, String.fromCharCode(...decyptedCharCodeArray));
+    return String.fromCharCode(...decyptedCharCodeArray);
 
 };
 
