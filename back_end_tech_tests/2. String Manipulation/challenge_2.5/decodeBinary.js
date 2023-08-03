@@ -8,7 +8,7 @@ function decodeBinary(binaryString) {
     // Convert the decimal array to characters
     const text = decimalArray.map((decimal) => String.fromCharCode(decimal)).join('');
 
-
+    return text;
 }
 
 module.exports = decodeBinary;
