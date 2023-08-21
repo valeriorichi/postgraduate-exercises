@@ -271,3 +271,39 @@ function bubbleSort(array) {
 }
 // Test here.
 permAlone("aab");
+
+function pairwise(arr, arg) {
+  let pairIndices = {};
+  let sum = 0;
+
+  // Potential matches are stored in `pairIndices`
+  //
+  // For example, if
+  //  arr = [1, 4, 2, 3, 2, 5]
+  //  arg = 7
+  //
+  // then after the first two loop iterations
+  //
+  //  pairIndices = {6: [0], 3: [1]}
+  //
+  // because 1 = 7 - 6 is at index 0
+  //  and    4 = 7 - 3 is at index 1
+  //
+  // The object has an array of indices to handle
+  // duplicate entries in `arr`
+  for (let i = 0; i < arr.length; i++) {
+    if (pairIndices[arr[i]]) {
+      // add indices to sum if matching pair found
+      sum += i + pairIndices[arr[i]].shift();
+      if (pairIndices[arr[i]].length === 0) {
+        delete pairIndices[arr[i]];
+      }
+    } else {
+      // mark index as posibility if no matching pair
+      pairIndices[arg - arr[i]] = pairIndices[arg - arr[i]] || [];
+      pairIndices[arg - arr[i]].push(i);
+    }
+  }
+
+  return sum;
+}
